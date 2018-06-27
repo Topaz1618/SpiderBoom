@@ -3,8 +3,7 @@
 
 ### 架构简要说明
 ```
-┌── handler(核心代码)
-├── cookie_pool(cookie 池)
+┌── cookie_pool(cookie 池)
 ├── redis_conn(连接 redis)
 ├── redis_del(操作 redis)
 ├── settings(配置文件)
